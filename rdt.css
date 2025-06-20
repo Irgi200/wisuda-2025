@@ -18,7 +18,7 @@
     --text-color: #f8f9fa; /* Off-white for better readability */
     --main-color: #0ef; /* A vibrant cyan, can be #59b2f4 if you prefer */
     --gen-color: #ffd700; /* Gold for a nice accent, was #f3da92 */
-    --hover-glow-color: rgba(0, 238, 255, 0.5); /* For glowing effects */
+    --hover-glow-color: #00eeff80; /* For glowing effects */
     --shadow-color: rgba(0, 0, 0, 0.2);
 }
 
